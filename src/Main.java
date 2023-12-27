@@ -29,7 +29,7 @@ public class Main{
             }else if(toGuess<randomNumber){
                 System.out.println("The number is more than yours!");
             }else{
-                System.out.println("!!!AM!!!");
+                System.out.println("!!!WIN!!!");
                 System.exit(0);
 
             }
